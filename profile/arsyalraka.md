@@ -1,11 +1,11 @@
 # Nama
-Arsyal Raka
+Arsyal Raka Desga
 
 ### Provinsi, Kota & Kecamatan
 
 Jawa Timur, Surabaya, Benowo
 
-### Sekolah / Akademik
+### Sekolah / Akademik / Kuliah
 Universitas
 
 
